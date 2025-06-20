@@ -104,7 +104,7 @@
   font-weight: var(--font-weight-regular);
   line-height: 1.4;
   position: absolute;
-  display: var(--rec-display);
+  display: var(--display-rec);
   top: 10px;
   right: 29px;
   content: "";
