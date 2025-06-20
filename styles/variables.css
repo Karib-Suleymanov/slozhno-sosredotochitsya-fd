@@ -8,7 +8,6 @@
   --color-title: #000028;
   --color-border: #ff0070;
   --color-hover: rgb(255 0 112 / 0.4);
-  --display-rec: block; 
   --font-family: "IBM Plex Mono", sans-serif;
   --font-size: 18px;
   --font-weight-regular: 400;
@@ -19,4 +18,8 @@
   --border-transparent: 1px solid transparent;
   --gap-small: 10px;
   --gap-medium: 20px;
+}
+
+:root {
+  --display-rec: block; 
 }
