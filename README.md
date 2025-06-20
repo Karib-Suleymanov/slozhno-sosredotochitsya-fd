@@ -1,1 +1,1 @@
-https://github.com/Karib-Suleymanov/slozhno-sosredotochitsya-fd.git §`
+https://github.com/Karib-Suleymanov/slozhno-sosredotochitsya-fd.git`
