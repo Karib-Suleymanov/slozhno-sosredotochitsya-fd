@@ -58,6 +58,7 @@
   color: var(--color-border);
   border: var(--border-transparent);
   text-align: center;
+  text-transform: lowercase;
 }
 
 .header__theme-menu-button_active {
@@ -161,7 +162,7 @@
 }
 
 .article-block__link:hover {
-  border-bottom: 1px solid var(--color-link);
+  border-bottom: 1px solid currentColor;
 }
 
 .article-block__link:focus {
@@ -169,7 +170,7 @@
 }
 
 .article-block__link:focus-visible {
-  border: 1px solid var(--color-link);
+  border: 1px solid currentColor;
 }
 
 .gallerey-list {
@@ -184,7 +185,7 @@
   display: block;
   max-width: 100%;
   height: auto;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .footer {
